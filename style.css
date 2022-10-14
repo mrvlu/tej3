@@ -1,0 +1,27 @@
+/* This is a comment */
+/* Demonstrates how css works in formatting an html document */
+h1{
+	color:#f2e4bc;
+  
+
+}
+
+body{
+  background-color: #577cae;
+  font-family: Arial, Helvetica, sans-serif;
+  margin:10px;
+  color:#70ca85;
+
+
+  
+}
+
+a{
+  color:#20552d;
+}
+
+a:hover
+{ 
+background-color:yellow;
+}
+
